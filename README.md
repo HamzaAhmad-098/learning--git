@@ -45,12 +45,14 @@ git merge new-feature
 ```
 ## ✍️ Notes
 
--I will keep updating this repo with:
--Real use-case experiments
--Mistakes and how to fix them
--GitHub interaction
+- I will keep updating this repo with:
+- Real use-case experiments
+- Mistakes and how to fix them
+- GitHub interaction
 
-🧑‍💻 Author
+---
+
+## 🧑‍💻 Author
 
 Hamza Ahmad
 
@@ -58,7 +60,7 @@ Hamza Ahmad
 
 📍 Pakistan | 🌐 Learning Full Stack Web Dev
 
-📫 Contact
+## 📫 Contact
 
 I'm open to internships , remote jobs , freelance projects, or tech collaboration.
 
