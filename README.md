@@ -60,6 +60,8 @@ Hamza Ahmad
 
 📍 Pakistan | 🌐 Learning Full Stack Web Dev
 
+---
+
 ## 📫 Contact
 
 I'm open to internships , remote jobs , freelance projects, or tech collaboration.
