@@ -52,3 +52,29 @@ Real use-case experiments
 Mistakes and how to fix them
 
 GitHub interaction
+
+🧑‍💻 Author
+
+Hamza Ahmad
+
+2nd Year Computer Science Student at UET
+
+📍 Pakistan | 🌐 Learning Full Stack Web Dev
+
+📌 Notes
+
+This repository will keep growing as I explore more Rails topics  in future .
+
+Stay tuned!
+
+📫 Contact
+
+I'm open to internships , remote jobs , freelance projects, or tech collaboration.
+
+Hamza Ahmad
+
+🔗 GitHub: HamzaAhmad-098
+
+📧 Email: jhaji1223@gmail.com
+
+🔗 Portfolio: portfolio.hamzaxdevelopers.dpdns.org
